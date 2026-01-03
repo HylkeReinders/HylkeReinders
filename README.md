@@ -87,7 +87,7 @@ My focus with packages is:
 - **API error mapping**  
   Clear separation between transport errors, domain errors, and UI errors.
 
-(Repositories are published once the API, documentation, and tests meet my own standards.)
+#### (Repositories are published once the API, documentation, and tests meet my own standards.)
 ---
 
 ## Backend & tooling
