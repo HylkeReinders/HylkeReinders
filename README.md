@@ -67,6 +67,27 @@ My focus with packages is:
 - backwards compatibility
 - documentation that explains decisions, not just usage
 
+### Published
+
+- **coffee_result**  
+  Explicit, readable Result handling for Dart & Flutter.  
+  Models success and failure without exceptions, nulls, or deeply nested conditionals.  
+
+  [![Pub.dev](https://img.shields.io/pub/v/coffee_result?label=pub.dev&color=blue)](https://pub.dev/packages/coffee_result)
+  [![GitHub](https://img.shields.io/badge/GitHub-source-black)](https://github.com/HylkeReinders/flutter_result)
+
+### In progress
+
+- **runtime configuration**  
+  Typed runtime config with environment switching and explicit overrides.
+
+- **offline queue**  
+  Persistent offline-first action queue with retries and conflict handling.
+
+- **API error mapping**  
+  Clear separation between transport errors, domain errors, and UI errors.
+
+(Repositories are published once the API, documentation, and tests meet my own standards.)
 ---
 
 ## Backend & tooling
