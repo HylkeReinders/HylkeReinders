@@ -41,19 +41,6 @@ I enjoy building **complex systems** and then reducing them to **clear, goal-dri
 
 ---
 
-## Testing (honest version)
-
-I’m not going to pretend I *love* writing unit tests — I don’t.  
-But I do write them, especially around critical logic and behavior.
-
-- Not full TDD
-- Tests where they add confidence
-- Pragmatic over dogmatic
-
-Production stability matters more to me than ideological purity.
-
----
-
 ## Packages & reuse
 
 I’m currently working on my first Flutter packages.
@@ -88,6 +75,20 @@ My focus with packages is:
   Clear separation between transport errors, domain errors, and UI errors.
 
 #### (Repositories are published once the API, documentation, and tests meet my own standards.)
+
+---
+
+## Testing (honest version)
+
+I’m not going to pretend I *love* writing unit tests — I don’t.  
+But I do write them, especially around critical logic and behavior.
+
+- Not full TDD
+- Tests where they add confidence
+- Pragmatic over dogmatic
+
+Production stability matters more to me than ideological purity.
+
 ---
 
 ## Backend & tooling
