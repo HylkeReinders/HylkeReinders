@@ -63,6 +63,13 @@ My focus with packages is:
   [![Pub.dev](https://img.shields.io/pub/v/coffee_result?label=pub.dev&color=blue)](https://pub.dev/packages/coffee_result)
   [![GitHub](https://img.shields.io/badge/GitHub-source-black)](https://github.com/HylkeReinders/flutter_result)
 
+- **coffee_http_client**  
+  A minimal, opinionated HTTP client for Flutter & Dart.  
+  Focused on explicit request lifecycles, predictable behavior, and application-defined response handling.
+
+  [![Pub.dev](https://img.shields.io/pub/v/coffee_http_client?label=pub.dev&color=blue)](https://pub.dev/packages/coffee_http_client)
+  [![GitHub](https://img.shields.io/badge/GitHub-source-black)](https://github.com/HylkeReinders/coffee_http_client)
+
 ### In progress
 
 - **runtime configuration**  
